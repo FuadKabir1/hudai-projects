@@ -1,0 +1,1 @@
+cc game.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o a.out && ./a.out
